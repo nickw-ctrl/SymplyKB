@@ -1,0 +1,2 @@
+# SymplyPRO XTL
+Placeholder page.
