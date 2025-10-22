@@ -2,7 +2,7 @@ site_name: Symply Docs (Pilot)
 site_description: Symply product docs, guides, and manuals
 theme:
   name: material
-  custom_dir: overrides
+ # custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.top
