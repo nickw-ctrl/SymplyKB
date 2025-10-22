@@ -1,7 +1,43 @@
 site_name: Symply Docs (Pilot)
+site_description: Symply product docs, guides, and manuals
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/github
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/freshdesk.js
 plugins:
   - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
 nav:
   - Home: index.md
+  - Products:
+      - SymplyPRO XTL:
+          - Overview: products/symplypro-xtl/overview.md
+          - Quick Start (sample): products/symplypro-xtl/quickstart.md
+      - SymplyPRO Ethernet:
+          - Overview: products/symplypro-ethernet/overview.md
+  - Support:
+      - Contact & Tickets: support/contact.md

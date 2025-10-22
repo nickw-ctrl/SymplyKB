@@ -1,3 +1,3 @@
-# Welcome to Symply Docs
+# Welcome to Symply Docs (Pilot)
 
-This is your pilot site. Use the search bar or the navigation.
+Search above or browse **Products**. This is placeholder content for the pilot build.
