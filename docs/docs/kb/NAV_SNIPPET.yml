@@ -1,0 +1,33 @@
+- Knowledge Base:
+  - Support:
+    - How to access Symply Support: kb/support/how-to-access-support.md
+    - TeamViewer (macOS): kb/support/teamviewer-macos.md
+  - LTO:
+    - Install:
+      - macOS: kb/lto/install/macos.md
+      - Windows: kb/lto/install/windows.md
+    - SymplyATOM:
+      - Scan for Drives: kb/lto/symplyatom/scan-for-drives.md
+      - Mount / Unmount: kb/lto/symplyatom/mount-unmount.md
+      - Host Validation: kb/lto/symplyatom/host-validation.md
+      - Retrieve Log: kb/lto/symplyatom/retrieve-log.md
+    - Management:
+      - Firmware downloads: kb/lto/management/firmware-downloads.md
+      - Setting Max Transfer Size: kb/lto/management/setting-max-transfer-size.md
+    - Troubleshooting:
+      - Error code “8”: kb/lto/troubleshooting/error-code-8.md
+      - Mac: device not found: kb/lto/troubleshooting/cannot-find-product-mac.md
+    - FAQ:
+      - What is LTO‑9?: kb/lto/faq/what-is-lto9.md
+  - Thunderbolt:
+    - System requirements: kb/thunderbolt/system-requirements.md
+    - Drivers & downloads: kb/thunderbolt/downloads.md
+    - ATTO SAS firmware update: kb/thunderbolt/atto-firmware-update.md
+  - SymplyPRO SAS:
+    - Overview: kb/pro-sas/index.md
+    - Drivers: kb/pro-sas/drivers.md
+  - SPARK:
+    - Firmware update: kb/spark/firmware-update.md
+    - Replace a failed HDD: kb/spark/replace-hdd.md
+  - NEBULA:
+    - Connect to NEBULA: kb/nebula/connect.md
