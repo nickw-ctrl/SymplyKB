@@ -52,7 +52,7 @@ nav:
       - Error code “8”: kb/lto/troubleshooting/error-code-8.md
       - Mac: device not found: kb/lto/troubleshooting/cannot-find-product-mac.md
     - FAQ:
-      - What is LTO‑9?: kb/lto/faq/what-is-lto9.md
+      - About is LTO‑9?: kb/lto/faq/what-is-lto9.md
   - Thunderbolt:
     - System requirements: kb/thunderbolt/system-requirements.md
     - Drivers & downloads: kb/thunderbolt/downloads.md
